@@ -1,0 +1,61 @@
+filename_prefix,activity,split,source,duration_s,notes
+standing_train_01,standing,train,2026-07-05_09-34-55,6.76,
+standing_train_02,standing,train,2026-07-05_09-36-30,7.76,
+standing_train_03,standing,train,2026-07-05_09-36-43,6.84,
+standing_train_04,standing,train,2026-07-05_09-37-12,6.36,
+standing_train_05,standing,train,2026-07-05_09-37-21,7.14,
+standing_train_06,standing,train,2026-07-05_09-37-30,7.81,
+standing_train_07,standing,train,2026-07-05_09-37-46,8.33,
+standing_train_08,standing,train,2026-07-05_09-37-58,6.31,
+standing_train_09,standing,train,2026-07-05_09-38-07,6.89,
+standing_train_10,standing,train,2026-07-05_09-38-22,9.46,
+standing_train_11,standing,train,2026-07-05_09-52-34,7.45,
+standing_train_12,standing,train,2026-07-05_09-52-43,8.67,
+walking_train_01,walking,train,2026-07-05_09-58-00,7.33,
+walking_train_02,walking,train,2026-07-05_09-58-09,7.84,
+walking_train_03,walking,train,2026-07-05_09-58-20,6.51,
+walking_train_04,walking,train,2026-07-05_09-58-28,6.42,
+walking_train_05,walking,train,2026-07-05_09-58-36,8.09,
+walking_train_06,walking,train,2026-07-05_09-58-46,7.85,
+walking_train_07,walking,train,2026-07-05_09-59-08,7.45,
+walking_train_08,walking,train,2026-07-05_09-59-17,6.75,
+walking_train_09,walking,train,2026-07-05_09-59-32,7.36,
+walking_train_10,walking,train,2026-07-05_10-00-19,8.61,
+walking_train_11,walking,train,2026-07-05_10-01-43,7.5,
+walking_train_12,walking,train,2026-07-05_10-01-56,7.35,
+jumping_train_01,jumping,train,2026-07-05_10-08-13,6.36,
+jumping_train_02,jumping,train,2026-07-05_10-08-31,7.34,
+jumping_train_03,jumping,train,2026-07-05_10-08-40,6.84,
+jumping_train_04,jumping,train,2026-07-05_10-08-48,7.35,
+jumping_train_05,jumping,train,2026-07-05_10-08-57,7.27,
+jumping_train_06,jumping,train,2026-07-05_10-09-07,7.19,
+jumping_train_07,jumping,train,2026-07-05_10-09-16,7.56,
+jumping_train_08,jumping,train,2026-07-05_10-09-25,8.34,
+jumping_train_09,jumping,train,2026-07-05_10-09-35,6.23,
+jumping_train_10,jumping,train,2026-07-05_10-09-43,6.53,
+jumping_train_11,jumping,train,2026-07-05_10-11-09,7.4,
+jumping_train_12,jumping,train,2026-07-05_10-11-20,6.98,
+still_train_01,still,train,2026-07-05_10-12-40,7.93,
+still_train_02,still,train,2026-07-05_10-12-52,7.3,
+still_train_03,still,train,2026-07-05_10-13-01,8.78,
+still_train_04,still,train,2026-07-05_10-13-11,7.88,
+still_train_05,still,train,2026-07-05_10-13-20,6.58,
+still_train_06,still,train,2026-07-05_10-13-28,7.45,
+still_train_07,still,train,2026-07-05_10-13-37,7.0,
+still_train_08,still,train,2026-07-05_10-13-45,7.06,
+still_train_09,still,train,2026-07-05_10-13-55,5.99,
+still_train_10,still,train,2026-07-05_10-14-02,7.0,
+still_train_11,still,train,2026-07-05_10-14-43,6.07,
+still_train_12,still,train,2026-07-05_10-14-51,6.62,
+standing_test_01,standing,test,2026-07-05_10-26-39,8.85,"outside, phone in pocket (standing/walking/jumping); different surface (still)"
+standing_test_02,standing,test,2026-07-05_10-26-50,8.79,"outside, phone in pocket (standing/walking/jumping); different surface (still)"
+standing_test_03,standing,test,2026-07-05_10-27-10,8.34,"outside, phone in pocket (standing/walking/jumping); different surface (still)"
+walking_test_01,walking,test,2026-07-05_10-28-24,8.85,"outside, phone in pocket (standing/walking/jumping); different surface (still)"
+walking_test_02,walking,test,2026-07-05_10-28-38,8.73,"outside, phone in pocket (standing/walking/jumping); different surface (still)"
+walking_test_03,walking,test,2026-07-05_10-28-50,8.8,"outside, phone in pocket (standing/walking/jumping); different surface (still)"
+jumping_test_01,jumping,test,2026-07-05_10-30-10,6.8,"outside, phone in pocket (standing/walking/jumping); different surface (still)"
+jumping_test_02,jumping,test,2026-07-05_10-30-25,9.13,"outside, phone in pocket (standing/walking/jumping); different surface (still)"
+jumping_test_03,jumping,test,2026-07-05_10-30-42,9.34,"outside, phone in pocket (standing/walking/jumping); different surface (still)"
+still_test_01,still,test,2026-07-05_10-31-52,9.19,"outside, phone in pocket (standing/walking/jumping); different surface (still)"
+still_test_02,still,test,2026-07-05_10-32-03,8.81,"outside, phone in pocket (standing/walking/jumping); different surface (still)"
+still_test_03,still,test,2026-07-05_10-32-14,9.44,"outside, phone in pocket (standing/walking/jumping); different surface (still)"
